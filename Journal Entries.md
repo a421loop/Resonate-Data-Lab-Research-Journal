@@ -1,2 +1,25 @@
 # RESEARCH REFLECTIONS 
 # WEEK 9
+### 25 Jul: 
+**Today's tasks**
+- [ ] Research Journal for week 9
+- [ ] Retrosound Debugging
+      - [ ] MP3 fixes
+      - [ ] More than 30 seconds 
+- [ ] Privacy Activities
+- [ ] Compile Padlet Tech
+- [ ] Upload all the sound
+      - [ ] From the walks
+      - [ ] From bennington lake
+      - [ ] From this week (listen before)
+- [ ] Compile notes from the individual meeting
+- [ ] Landing page sketches
+- [ ] Daily ideas sketching
+- [ ] P2 analysis
+- [ ] Try to recorders on a walk
+      - [x] Keep it inside your pocket
+      - [x] Keep it outside your pocket
+
+**Reflections From  Recording on the Zoom Handy Recorder**
+- **Recorder In Hand** : Its really strange walking around with a recorder, its like a statement to people around you that are you witnessing to immortalise their every move.
+- **Recorder in Pocket**: It feels like I am intruding on anyone who decides to talk to me. But personally, I feel safer having it in my pocket that outside. 
