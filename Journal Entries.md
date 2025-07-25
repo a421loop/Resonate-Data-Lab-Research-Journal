@@ -32,10 +32,17 @@
 <img src="https://drive.google.com/uc?export=view&id=1GT5vNAPO6ul9d008jqQ1vdGctgawwJ_B" 
      width="440">
 
-
+## Readings https://walkinglab.org/podcast/sound-walks-and-sonic-walks/
+Quotes that stand out 
+### interesting links 
+[This](https://www.are.na/sydney-johnson-4a4vmdu4une/sound-walks-and-site-specific-interventions-proposal) reminded me of Sound Walk Club. We should have that. PLEASEEE
 
 # July 24
 <img src="https://drive.google.com/uc?export=view&id=1G_rWIRGSD3TfkkQ1iMTqhhRfeYqns_lg" 
      width="440">
+**Ideas to think about**
+Prompting App to think about Sound AS AN EXPLORATORY TOOL
+What if there was like a prompting app that let you explore a new places using sound. Anxiety and Sound. 
 
+# July 2
 
