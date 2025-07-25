@@ -28,10 +28,15 @@
 **Switch To Markdown** 
 - I have been wanting to get faster at md and I figured its best to switch to it. This way, I'll get more github practice and write my documentation in a consistent format.
 
-#### Sketching Day 2: NFC TAG of Fears/Dreams of Resonate Data Lab
+#### Sketching Day 2: 
+1. NFC TAG of Fears/Dreams of Resonate Data Lab
+
 <img src="https://drive.google.com/uc?export=view&id=1GT5vNAPO6ul9d008jqQ1vdGctgawwJ_B" 
      width="440">
-)
+3. Somantic Scout: 
+<img src="https://drive.google.com/uc?export=view&id=1GlSZAxDaOfzrnMCIu7MTSXcXdqyLrCtm" 
+     width="440">
+
 ### INTERESTING RESOURCES
 - [This](https://www.are.na/sydney-johnson-4a4vmdu4une/sound-walks-and-site-specific-interventions-proposal) reminded me of Sound Walk Club. We should have that. PLEASEEE
 - 
@@ -50,9 +55,7 @@ This made me reflect about my about how I feel so so much in my body when I am o
 # July 24
 <img src="https://drive.google.com/uc?export=view&id=1G_rWIRGSD3TfkkQ1iMTqhhRfeYqns_lg" 
      width="440">
-**Ideas to think about**
-Prompting App to think about Sound AS AN EXPLORATORY TOOL
-What if there was like a prompting app that let you explore a new places using sound. Anxiety and Sound. 
+
 
 # July 2
 
