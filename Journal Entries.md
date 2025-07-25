@@ -29,5 +29,5 @@
 
 #### Sketching Day 2: Fears and Dreams of Resonate Data Lab
 <img src="https://drive.google.com/uc?export=view&id=1GT5vNAPO6ul9d008jqQ1vdGctgawwJ_B" 
-     width="140">
+     width="240">
 
