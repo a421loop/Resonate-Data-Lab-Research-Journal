@@ -22,4 +22,7 @@
 
 **Reflections From the Walk: Recording on the Zoom Handy Recorder**
 - **Recorder In Hand** : Its really strange walking around with a recorder, its like a statement to people around you that are you witnessing to immortalise their every move.
-- **Recorder in Pocket**: It feels like I am intruding on anyone who decides to talk to me. It was hard turning it off before someone talks and then I had to delete the whole recording. But personally, I feel safer having it in my pocket that outside. 
+- **Recorder in Pocket**: It feels like I am intruding on anyone who decides to talk to me. It was hard turning it off before someone talks and then I had to delete the whole recording. But personally, I feel safer having it in my pocket that outside.
+
+**Switch To Markdown** 
+- I have been wanting to get faster at md and I figured its best to switch to it. This way, I'll get more github practice and write my documentation in a consistent format. 
