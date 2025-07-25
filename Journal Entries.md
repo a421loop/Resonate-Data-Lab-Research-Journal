@@ -56,6 +56,7 @@ This made me reflect about my about how I feel so so much in my body when I am o
 <img src="https://drive.google.com/uc?export=view&id=1G_rWIRGSD3TfkkQ1iMTqhhRfeYqns_lg" 
      width="440">
 
-
-# July 2
+**Reflection on RetroSound Format**
+- I am not sure which one to choose. I was going with webm before first before mp3 wasnt working for me, but then because I found out it has better compression in terms and better quality but it doesnt play on all devices. I think universal compatibility is a priority so I need to figure out how to implement MP3. From what i looked up, I will need to use a library (lamejs) that I havent used before. This should be interesting.
+# July 23
 
