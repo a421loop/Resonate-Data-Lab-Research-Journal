@@ -19,6 +19,8 @@
 - [ ] Try to recorders on a walk
       - [x] Keep it inside your pocket
       - [x] Keep it outside your pocket
+
+- [ ] Try out whisper AI to transcribe. 
 **Reflections From the Walk: Recording on the Zoom Handy Recorder**
 - **Recorder In Hand** : Its really strange walking around with a recorder, its like a statement to people around you that are you witnessing to immortalise their every move.
 - **Recorder in Pocket**: It feels like I am intruding on anyone who decides to talk to me. It was hard turning it off before someone talks and then I had to delete the whole recording. But personally, I feel safer having it in my pocket that outside.
