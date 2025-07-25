@@ -31,11 +31,20 @@
 #### Sketching Day 2: NFC TAG of Fears/Dreams of Resonate Data Lab
 <img src="https://drive.google.com/uc?export=view&id=1GT5vNAPO6ul9d008jqQ1vdGctgawwJ_B" 
      width="440">
+)
+### INTERESTING RESOURCES
+- [This](https://www.are.na/sydney-johnson-4a4vmdu4une/sound-walks-and-site-specific-interventions-proposal) reminded me of Sound Walk Club. We should have that. PLEASEEE
+- 
 
-## Readings https://walkinglab.org/podcast/sound-walks-and-sonic-walks/
+## READINGS/LISTENINGS
+
+### [Podcast about Sonic Walks] (https://walkinglab.org/podcast/sound-walks-and-sonic-walks/]
+
 Quotes that stand out 
-### interesting links 
-[This](https://www.are.na/sydney-johnson-4a4vmdu4une/sound-walks-and-site-specific-interventions-proposal) reminded me of Sound Walk Club. We should have that. PLEASEEE
+- "Walking and sound have increasingly been combined in order to explore the sonic ecologies of place. The term soundwalk was first used by Murray Schafer in Vancouver, Canada in the 1970s to describe a method of identifying and describing the soundscapes of a particular environment. Schafer defined a soundscape as the acoustic features that make up a place."
+- "Researchers are interested in soundwalks for the ability to immerse walkers in a bodily sense of place."
+      - This made me reflect about my about how I feel so so much in my body when I am on a soundwalk vs a real walk. * I think it has helped me be more curious than anxouus when exploring new places.*
+
 
 # July 24
 <img src="https://drive.google.com/uc?export=view&id=1G_rWIRGSD3TfkkQ1iMTqhhRfeYqns_lg" 
