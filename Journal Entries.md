@@ -2,7 +2,7 @@
 # WEEK 9
 ### 25 Jul: 
 **Today's tasks**
-- [ ] Research Journal for week 9 - IN progress
+- [x] Draft Research Journal for week 9 - IN progress
 - [ ] Retrosound Debugging - MP3 fixes
 - [ ] Retrosound Debugging - More than 30 seconds 
 - [ ] Privacy Activities
