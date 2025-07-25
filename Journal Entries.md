@@ -33,9 +33,11 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1GT5vNAPO6ul9d008jqQ1vdGctgawwJ_B" 
      width="440">
-3. Somantic Scout: 
+3. Somantic Scout(need a better name): I've noticed that when I go on walks with the goal to listen, my default shifts from being anxious about the newness to being curious.
 <img src="https://drive.google.com/uc?export=view&id=1GlSZAxDaOfzrnMCIu7MTSXcXdqyLrCtm" 
      width="440">
+
+
 
 ### INTERESTING RESOURCES
 - [This](https://www.are.na/sydney-johnson-4a4vmdu4une/sound-walks-and-site-specific-interventions-proposal) reminded me of Sound Walk Club. We should have that. PLEASEEE
