@@ -31,5 +31,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1GSH9j9L3j5ebnARfR_k1lso7tOCu8GRE" 
      alt="Project Image" 
      width="150" 
-     style="transform: rotate(45deg); border-radius: 8px;">
+     style="transform: rotate(90deg); border-radius: 8px;">
 
