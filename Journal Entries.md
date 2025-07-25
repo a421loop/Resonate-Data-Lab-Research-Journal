@@ -30,3 +30,8 @@
 <img src="https://drive.google.com/uc?export=view&id=1GT5vNAPO6ul9d008jqQ1vdGctgawwJ_B" 
      width="440">
 
+
+
+# July 24
+<img src="https://drive.google.com/file/d/1G_rWIRGSD3TfkkQ1iMTqhhRfeYqns_lg/view?usp=sharing" 
+     width="440">
