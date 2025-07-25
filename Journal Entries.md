@@ -33,5 +33,7 @@
 
 
 # July 24
-<img src="https://drive.google.com/file/d/1G_rWIRGSD3TfkkQ1iMTqhhRfeYqns_lg/view?usp=sharing" 
+<img src="https://drive.google.com/file/d/1G_rWIRGSD3TfkkQ1iMTqhhRfeYqns_lg/view?usp=sharing"
      width="440">
+
+
