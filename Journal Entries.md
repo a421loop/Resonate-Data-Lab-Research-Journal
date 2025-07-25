@@ -14,7 +14,7 @@
       - [ ] From this week (listen before)
 - [ ] Compile notes from the individual meeting
 - [ ] Landing page sketches
-- [ ] Daily ideas sketching
+- [x] Daily ideas sketching
 - [ ] P2 analysis
 - [ ] Try to recorders on a walk
       - [x] Keep it inside your pocket
