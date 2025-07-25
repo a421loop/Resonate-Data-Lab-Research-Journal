@@ -28,8 +28,6 @@
 - I have been wanting to get faster at md and I figured its best to switch to it. This way, I'll get more github practice and write my documentation in a consistent format.
 
 #### Sketching Day 2: Fears and Dreams of Resonate Data Lab
-<img src="https://drive.google.com/uc?export=view&id=1GSH9j9L3j5ebnARfR_k1lso7tOCu8GRE" 
-     alt="Project Image" 
-     width="150" 
-     style="transform: rotate(90deg); border-radius: 8px;">
+<img src="https://drive.google.com/uc?export=view&id=1GT5vNAPO6ul9d008jqQ1vdGctgawwJ_B" 
+     width="140">
 
