@@ -3,9 +3,8 @@
 ### 25 Jul: 
 **Today's tasks**
 - [ ] Research Journal for week 9 - IN progress
-- [ ] Retrosound Debugging
-      - [ ] MP3 fixes
-      - [ ] More than 30 seconds 
+- [ ] Retrosound Debugging - MP3 fixes
+- [ ] Retrosound Debugging - More than 30 seconds 
 - [ ] Privacy Activities
 - [ ] Compile Padlet Tech
 - [ ] Upload all the sound
