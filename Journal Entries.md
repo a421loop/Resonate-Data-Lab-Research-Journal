@@ -25,4 +25,10 @@
 - **Recorder in Pocket**: It feels like I am intruding on anyone who decides to talk to me. It was hard turning it off before someone talks and then I had to delete the whole recording. But personally, I feel safer having it in my pocket that outside.
 
 **Switch To Markdown** 
-- I have been wanting to get faster at md and I figured its best to switch to it. This way, I'll get more github practice and write my documentation in a consistent format. 
+- I have been wanting to get faster at md and I figured its best to switch to it. This way, I'll get more github practice and write my documentation in a consistent format.
+
+#### Sketching Day 2: Fears and Dreams of Resonate Data Lab
+![alt text](https://drive.google.com/file/d/1GSH9j9L3j5ebnARfR_k1lso7tOCu8GRE/view?usp=sharing)
+
+
+
