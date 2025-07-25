@@ -43,7 +43,8 @@
 Quotes that stand out 
 - "Walking and sound have increasingly been combined in order to explore the sonic ecologies of place. The term soundwalk was first used by Murray Schafer in Vancouver, Canada in the 1970s to describe a method of identifying and describing the soundscapes of a particular environment. Schafer defined a soundscape as the acoustic features that make up a place."
 - "Researchers are interested in soundwalks for the ability to immerse walkers in a bodily sense of place."
-      - This made me reflect about my about how I feel so so much in my body when I am on a soundwalk vs a real walk. * I think it has helped me be more curious than anxouus when exploring new places.*
+
+This made me reflect about my about how I feel so so much in my body when I am on a soundwalk vs a real walk. *I think it has helped me be more curious than anxouus when exploring new places.*
 
 
 # July 24
