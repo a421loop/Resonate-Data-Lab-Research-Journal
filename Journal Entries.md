@@ -29,14 +29,13 @@
 - I have been wanting to get faster at md and I figured its best to switch to it. This way, I'll get more github practice and write my documentation in a consistent format.
 
 #### Sketching Day 2: 
-1. NFC TAG of Fears/Dreams of Resonate Data Lab
-
-<img src="https://drive.google.com/uc?export=view&id=1GT5vNAPO6ul9d008jqQ1vdGctgawwJ_B" 
+1. Somantic Scout(need a better name): I've noticed that when I go on walks with the goal to listen, my default shifts from being anxious about the newness to being curious.
+- <img src="https://drive.google.com/uc?export=view&id=1GlSZAxDaOfzrnMCIu7MTSXcXdqyLrCtm" 
      width="440">
-3. Somantic Scout(need a better name): I've noticed that when I go on walks with the goal to listen, my default shifts from being anxious about the newness to being curious.
-<img src="https://drive.google.com/uc?export=view&id=1GlSZAxDaOfzrnMCIu7MTSXcXdqyLrCtm" 
+2. NFC TAG of Fears/Dreams of Resonate Data Lab
+- <img src="https://drive.google.com/uc?export=view&id=1GT5vNAPO6ul9d008jqQ1vdGctgawwJ_B" 
      width="440">
-
+     
 
 
 ### INTERESTING RESOURCES
