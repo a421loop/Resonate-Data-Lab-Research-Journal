@@ -27,7 +27,7 @@
 **Switch To Markdown** 
 - I have been wanting to get faster at md and I figured its best to switch to it. This way, I'll get more github practice and write my documentation in a consistent format.
 
-#### Sketching Day 2: Fears and Dreams of Resonate Data Lab
+#### Sketching Day 2: NFC TAG of Fears/Dreams of Resonate Data Lab
 <img src="https://drive.google.com/uc?export=view&id=1GT5vNAPO6ul9d008jqQ1vdGctgawwJ_B" 
      width="440">
 
