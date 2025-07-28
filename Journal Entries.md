@@ -1,5 +1,9 @@
 # RESEARCH REFLECTIONS 
 # Week 10 
+#### Feedback I need to ask for
+- which of the three landing pages should I go with?
+- what do you think about the sketches on the board? Which of the ideas would benefit the class the most? Gaps and stuff. 
+- Is there a reason its just not working with 
 ### Sketching Day #3 
 ##### Randomiser options 
 ##### Alive Social Sonic Archive
@@ -30,6 +34,9 @@
 | **MooER** | Moore Threads | August 2024 | Speech recognition and translation |
 | **Pengi** | Microsoft | January 2024 | Audio language model for audio tasks |
 
+##### Reflections on Use. 
+- 
+##### Activities/Probe ideas
 --------------------------------------------
 # WEEK 9
 ### 25 Jul: 
