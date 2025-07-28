@@ -24,7 +24,7 @@
 | **LLaMA-Omni** | ICT/CAS | September 2024 | Seamless speech interaction with LLMs |
 | **WavLLM** | CUHK | March 2024 | Robust and adaptive speech processing |
 | **SLAM-LLM** | Shanghai Jiao Tong | February 2024 | Strong ASR capacity |
-| **Whisper Large-v3** | OpenAI | 2024 | Advanced speech-to-text recognition |
+| **Whisper Large-v3** | OpenAI | 2024 | Advanced speech-to-text recognition | 
 | **Typhoon-Audio** | SCB 10X | August 2024 | Low-resource language support |
 | **Mini-Omni** | Tsinghua | August 2024 | Streaming audio while thinking |
 | **EMOVA** | HKUST | September 2024 | Emotional speech capabilities |
@@ -38,6 +38,11 @@
 **Transcription**
 - Claude - Sonnet 4: Didnt let me upload an mp3
 ##### Activities/Probe ideas
+
+
+#### interesting resources 
+- https://www.youtube.com/watch?v=YpY83-kA7Bo
+- [whisper AI colab notebook](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb#scrollTo=-YcRU5jqNqo2)
 --------------------------------------------
 # WEEK 9
 ### 25 Jul: 
