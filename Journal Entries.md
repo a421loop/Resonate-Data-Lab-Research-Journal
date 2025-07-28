@@ -1,6 +1,9 @@
 # RESEARCH REFLECTIONS 
 # Week 10 
-
+### Sketching Day #3 
+##### Randomiser options 
+##### Alive Social Sonic Archive
+##### Retrosound setup - 
 # WEEK 9
 ### 25 Jul: 
 - [x] Retrosound App Debugging - MP3 fixes
