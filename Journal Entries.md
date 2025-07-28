@@ -1,25 +1,33 @@
 # RESEARCH REFLECTIONS 
-# WEEK 9
-### 25 Jul: 
-**Today's tasks**
-- [x] Draft Research Journal for week 9 - IN progress
-- [ ] Retrosound Debugging - MP3 fixes
-- [ ] Retrosound Debugging - More than 30 seconds 
-- [ ] Privacy Activities
+# Week 10 
+**Masterlist tasks week**
+- [ ] Retrosound App Debugging - More than 30 seconds
+- [ ] Landing page decide and then prototype ONE fully for now
+- [ ] Reflections pleaseeee
+- [ ] Retrosound setup and (documentation of the most common errors as well)
 - [ ] Compile Padlet Tech
 - [ ] Upload all the sound
       - [ ] From the walks
       - [ ] From bennington lake
       - [ ] From this week (listen before)
+- [ ] Think of TECH probes supplements for the privacy levels - make it simple
 - [ ] Compile notes from the individual meeting
-- [ ] Landing page sketches
-- [x] Daily ideas sketching
 - [ ] P2 analysis
-- [ ] Try to recorders on a walk
+
+
+- [ ] Try out whisper AI to transcribe and other AI models PLeaseee
+# WEEK 9
+### 25 Jul: 
+- [x] Retrosound App Debugging - MP3 fixes
+- [x] Draft Research Journal for week 9 - IN progress
+- [x] Try to recorders on a walk
       - [x] Keep it inside your pocket
       - [x] Keep it outside your pocket
 
-- [ ] Try out whisper AI to transcribe. 
+- [x] Daily ideas sketching
+- [x] Landing page sketches
+
+
 **Reflections From the Walk: Recording on the Zoom Handy Recorder**
 - **Recorder In Hand** : Its really strange walking around with a recorder, its like a statement to people around you that are you witnessing to immortalise their every move.
 - **Recorder in Pocket**: It feels like I am intruding on anyone who decides to talk to me. It was hard turning it off before someone talks and then I had to delete the whole recording. But personally, I feel safer having it in my pocket that outside.
