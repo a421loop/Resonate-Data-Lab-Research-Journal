@@ -8,7 +8,7 @@
 ##### Randomiser options 
 ##### Alive Social Sonic Archive
 ### Retrosound 
-[setup pi 4] (https://github.com/Personal-Sonic-Archives/retrosound/edit/main/raspberry%20pi%20transfer%20setup.md)
+- [setup pi 4](https://github.com/Personal-Sonic-Archives/retrosound/edit/main/raspberry%20pi%20transfer%20setup.md)
 ### Personal Project. 
 ##### Audio Processing LLMs (2024-2025)
 
