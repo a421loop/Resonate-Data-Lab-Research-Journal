@@ -35,7 +35,8 @@
 | **Pengi** | Microsoft | January 2024 | Audio language model for audio tasks |
 
 ##### Reflections on Use. 
-- 
+**Transcription**
+- Claude - Sonnet 4: Didnt let me upload an mp3
 ##### Activities/Probe ideas
 --------------------------------------------
 # WEEK 9
