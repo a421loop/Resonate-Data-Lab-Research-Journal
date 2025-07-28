@@ -4,8 +4,32 @@
 ##### Randomiser options 
 ##### Alive Social Sonic Archive
 ### Retrosound setup pi 4: https://github.com/Personal-Sonic-Archives/retrosound/edit/main/raspberry%20pi%20transfer%20setup.md
-### Resources I found
-- List of all the LLMs that process audio https://github.com/AudioLLMs/Awesome-Audio-LLM
+### Personal Project. 
+##### Audio Processing LLMs (2024-2025)
+
+| **Model** | **Company/Organization** | **Release Date** | **Key Audio Features** |
+|-----------|-------------------------|------------------|----------------------|
+| **GPT-4o** | OpenAI | May 2024 | Real-time voice interaction, multimodal audio/text/image |
+| **Qwen2-Audio** | Alibaba | July 2024 | Voice chat, audio analysis, speech translation |
+| **SALMONN** | Tsinghua/ByteDance | 2024 | Speech, audio events, music understanding |
+| **Gemini 2.5 Pro** | Google | March 2025 | Multimodal with audio, video, text processing |
+| **Claude Sonnet 4** | Anthropic | Early 2025 | Extended thinking with audio capabilities |
+| **Step-Audio** | StepFun | February 2025 | Unified speech understanding and generation |
+| **MinMo** | Alibaba FunAudioLLM | January 2025 | Seamless voice interaction |
+| **Moshi** | Kyutai | September 2024 | Real-time speech-text dialogue |
+| **LLaMA-Omni** | ICT/CAS | September 2024 | Seamless speech interaction with LLMs |
+| **WavLLM** | CUHK | March 2024 | Robust and adaptive speech processing |
+| **SLAM-LLM** | Shanghai Jiao Tong | February 2024 | Strong ASR capacity |
+| **Whisper Large-v3** | OpenAI | 2024 | Advanced speech-to-text recognition |
+| **Typhoon-Audio** | SCB 10X | August 2024 | Low-resource language support |
+| **Mini-Omni** | Tsinghua | August 2024 | Streaming audio while thinking |
+| **EMOVA** | HKUST | September 2024 | Emotional speech capabilities |
+| **AudioBERT** | POSTECH | September 2024 | Audio knowledge augmented |
+| **SPIRIT LM** | Meta | October 2024 | Interleaved spoken and written language |
+| **GAMA** | University of Maryland | July 2024 | General-purpose audio-language model |
+| **MooER** | Moore Threads | August 2024 | Speech recognition and translation |
+| **Pengi** | Microsoft | January 2024 | Audio language model for audio tasks |
+
 --------------------------------------------
 # WEEK 9
 ### 25 Jul: 
