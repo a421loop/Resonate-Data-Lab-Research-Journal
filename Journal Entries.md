@@ -7,7 +7,7 @@
 ### Sketching Day #3 
 ##### Randomiser options 
 ##### Alive Social Sonic Archive
-### Retrosound setup pi 4: https://github.com/Personal-Sonic-Archives/retrosound/edit/main/raspberry%20pi%20transfer%20setup.md
+### [Retrosound setup pi 4] (https://github.com/Personal-Sonic-Archives/retrosound/edit/main/raspberry%20pi%20transfer%20setup.md)
 ### Personal Project. 
 ##### Audio Processing LLMs (2024-2025)
 
@@ -41,7 +41,7 @@
 
 
 #### interesting resources 
-- https://www.youtube.com/watch?v=YpY83-kA7Bo
+- [2025 in LLMs so far, illustrated by Pelicans on Bicycles — Simon Willison] (https://www.youtube.com/watch?v=YpY83-kA7Bo)
 - [whisper AI colab notebook](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb#scrollTo=-YcRU5jqNqo2)
 --------------------------------------------
 # WEEK 9
