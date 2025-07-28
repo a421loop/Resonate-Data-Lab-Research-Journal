@@ -4,7 +4,8 @@
 ##### Randomiser options 
 ##### Alive Social Sonic Archive
 ### Retrosound setup pi 4: https://github.com/Personal-Sonic-Archives/retrosound/edit/main/raspberry%20pi%20transfer%20setup.md
-
+### Resources I found
+- List of all the LLMs that process audio https://github.com/AudioLLMs/Awesome-Audio-LLM
 --------------------------------------------
 # WEEK 9
 ### 25 Jul: 
