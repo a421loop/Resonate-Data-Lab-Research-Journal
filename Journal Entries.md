@@ -39,6 +39,7 @@
 **Transcription**
 - Claude - Sonnet 4: Didnt let me upload an mp3
 - Chatgpt - "You cannot use the Whisper model directly here in this app unless OpenAI has added Whisper-based transcription as a built-in feature (currently, it hasn’t for long audios)."
+- Whisper - Really good. Ran into a lot of trouble, claude helped. Based on all my errors, asked it to make a [beginner's guide](https://claude.ai/public/artifacts/1b28ff16-9294-4e98-8bec-f27cbbd158c2)
 ##### Activities/Probe ideas
 
 
