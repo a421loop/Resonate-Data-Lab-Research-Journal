@@ -44,7 +44,7 @@
 
 
 #### interesting resources 
-- [2025 in LLMs so far, illustrated by Pelicans on Bicycles — Simon Willison] (https://www.youtube.com/watch?v=YpY83-kA7Bo)
+- [2025 in LLMs so far, illustrated by Pelicans on Bicycles — Simon Willison](https://www.youtube.com/watch?v=YpY83-kA7Bo)
 - [whisper AI colab notebook](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb#scrollTo=-YcRU5jqNqo2)
 --------------------------------------------
 # WEEK 9
