@@ -35,9 +35,10 @@
 | **MooER** | Moore Threads | August 2024 | Speech recognition and translation |
 | **Pengi** | Microsoft | January 2024 | Audio language model for audio tasks |
 
-##### Reflections on Use. 
+#### Reflections on Use. 
 **Transcription**
 - Claude - Sonnet 4: Didnt let me upload an mp3
+- Chatgpt - "You cannot use the Whisper model directly here in this app unless OpenAI has added Whisper-based transcription as a built-in feature (currently, it hasn’t for long audios)."
 ##### Activities/Probe ideas
 
 
