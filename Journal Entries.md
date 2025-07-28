@@ -41,7 +41,7 @@
 - Chatgpt - "You cannot use the Whisper model directly here in this app unless OpenAI has added Whisper-based transcription as a built-in feature (currently, it hasn’t for long audios)."
 - Whisper - Really good. Ran into a lot of trouble, claude helped. Based on all my errors, asked it to make a [beginner's guide](https://claude.ai/public/artifacts/1b28ff16-9294-4e98-8bec-f27cbbd158c2)
 ##### Activities/Probe ideas
-
+- make collab notebooks that let you do this in drive
 
 #### interesting resources 
 - [2025 in LLMs so far, illustrated by Pelicans on Bicycles — Simon Willison](https://www.youtube.com/watch?v=YpY83-kA7Bo)
