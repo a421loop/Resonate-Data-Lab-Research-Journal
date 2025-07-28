@@ -1,6 +1,6 @@
 # RESEARCH REFLECTIONS 
 # Week 10 
-**Masterlist tasks week**
+**Running Masterlist Tasks**
 - [ ] Retrosound App Debugging - More than 30 seconds
 - [ ] Landing page decide and then prototype ONE fully for now
 - [ ] Reflections pleaseeee
