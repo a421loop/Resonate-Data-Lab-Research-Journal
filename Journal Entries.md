@@ -3,7 +3,7 @@
 #### Feedback I need to ask for
 - which of the three landing pages should I go with?
 - what do you think about the sketches on the board? Which of the ideas would benefit the class the most? Gaps and stuff. 
-- Is there a reason pi 4 just not working with my wifi? How much time should i try for before i give up. Compile everything you did before the meeting.
+- For retrosound, How much time should i try for before i give up. Compile everything you did before the meeting.
 ### Sketching Day #3 
 ##### Randomiser options 
 ##### Alive Social Sonic Archive
