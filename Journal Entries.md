@@ -5,6 +5,12 @@
 ### Daily Sketch - Landing Page
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/7363dd59-5097-4b08-b73e-e991e21d76cc" />
 
+inspirations 
+<img width="250" height="400" alt="image" src="https://github.com/user-attachments/assets/e43777ad-3351-44f3-93be-84a2ff6b9744" />
+
+<img width="250" height="400" alt="image" src="https://github.com/user-attachments/assets/50e6becb-c014-4a8e-9a0a-8399dc9a5140" />
+
+
 ## 28 July
 #### Feedback I need to ask for
 - which of the three landing pages should I go with?
