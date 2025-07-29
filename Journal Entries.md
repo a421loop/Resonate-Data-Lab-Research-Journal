@@ -2,7 +2,7 @@
 # Week 10 
 
 # 29 July 
-### Daily Sketch - Landing Page
+### Daily Sketch #4 - Landing Page
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/7363dd59-5097-4b08-b73e-e991e21d76cc" />
 
 inspirations 
