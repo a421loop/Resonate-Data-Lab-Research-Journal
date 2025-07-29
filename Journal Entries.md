@@ -1,5 +1,11 @@
 # RESEARCH REFLECTIONS 
 # Week 10 
+
+# 29 July 
+### Daily Sketch - Landing Page
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/7363dd59-5097-4b08-b73e-e991e21d76cc" />
+
+## 28 July
 #### Feedback I need to ask for
 - which of the three landing pages should I go with?
 - what do you think about the sketches on the board? Which of the ideas would benefit the class the most? Gaps and stuff. 
