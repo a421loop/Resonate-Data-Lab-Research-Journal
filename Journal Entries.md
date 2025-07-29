@@ -10,7 +10,8 @@ inspirations
 
 <img width="250" height="400" alt="image" src="https://github.com/user-attachments/assets/50e6becb-c014-4a8e-9a0a-8399dc9a5140" />
 
-
+## Quantative analysis
+- its really interesting how much intentionality p17 has in thier life. I want to look more into intentionality of listening and see how that can be incorporated into the YLIS class this fall.
 ## 28 July
 #### Feedback I need to ask for
 - which of the three landing pages should I go with?
