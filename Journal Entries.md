@@ -1,6 +1,19 @@
 # RESEARCH REFLECTIONS 
 # Week 10 
 
+# 30 July 
+
+**Initial Approach and Expectations:**
+I thought it would be weird going in but then I was like Idk maybe i am assuming it. And I went anyway, hoping id find you there to collaborate on this.
+
+**Methodological Challenges Encountered:**
+When I got there, it felt intrusive to be recording in the pool just by myself. The pool was pretty filled. I didnt think it was safe to do that, so I just left. But it has got me wondering about public places and consent in research contexts. I considered trying it anyway but idk it just felt unsafe and ethically questionable just by myself.
+
+**Adaptive Methodology:**
+I ended up recording in maxey pond instead. Even though I couldnt get in the water(its so so dirty there), I feel like I didnt actually do the activity the way it was originally conceived, but what I did instead was trying to record it outside the pond, recording the pond from inside using the zip lock bags and outside perspectives to see if theres a difference in acoustic qualities. It also let me explore other dimensions because I used the camera feature in the voice recording app.
+
+**Findings and Next Steps:**
+So i did get something out of it methodologically, but to actually execute the activity as designed, I would probably need to go in with a collaborator for both safety and research ethics reasons. I'll do it before the summer ends but yeah i really felt the research by design principles you talked about - how the constraints become part of the investigation itself.
 # 29 July 
 ### Daily Sketch #4 - Landing Page
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/7363dd59-5097-4b08-b73e-e991e21d76cc" />
