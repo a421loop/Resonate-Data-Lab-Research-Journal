@@ -2,6 +2,7 @@
 # Week 10 
 
 # 30 July 
+### Public Pool/Pond reflection
 
 **Initial Approach and Expectations:**
 I thought it would be weird going in but then I was like Idk maybe i am assuming it. And I went anyway, hoping id find you there to collaborate on this.
