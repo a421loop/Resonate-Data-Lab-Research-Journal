@@ -1,4 +1,13 @@
 # RESEARCH REFLECTIONS 
+
+# Week 11
+**Things I am inclined to do**
+- I really want to make the questions for an interveiw about the Kashmir Un/making workshop and I really want to create a safe space for people within that workshop
+- I really want to read the [mit paper](https://arxiv.org/pdf/2506.08872) so I can understand it well. I am wondering how to use ai in sound in a way that it doesnt take away from their ability to learn as students in the age of ai
+- I really really want to do most of this in the next 2 weeks
+<img width="298" height="416" alt="image" src="https://github.com/user-attachments/assets/1092d861-2d0e-4d91-affe-0db0109b72a7" />
+
+  
 # Week 10 
 
 # 30 July 
