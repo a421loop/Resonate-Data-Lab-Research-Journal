@@ -7,7 +7,26 @@
 - I really really want to do most of this in the next 2 weeks
 <img width="298" height="416" alt="image" src="https://github.com/user-attachments/assets/1092d861-2d0e-4d91-affe-0db0109b72a7" />
 
-  
+## The two concepts we discussed to turn into activities 
+### Listening activity 
+<img width="583" height="355" alt="image" src="https://github.com/user-attachments/assets/1e5ce65f-9801-4609-be9a-d286e274bfc7" />
+
+
+### Archiving + Remixing activity
+<img width="789" height="425" alt="image" src="https://github.com/user-attachments/assets/5fb5f6c4-fc2a-4236-a16e-29775e278c91" />
+Detailed initial tool design <img width="501" height="310" alt="image" src="https://github.com/user-attachments/assets/c72a012c-8367-4475-bb92-463d53ce6f52" />
+
+
+### Landing Page 
+[Feedback on the sketches]([link the doc](https://docs.google.com/document/d/161wBZYcci-cLBBmtqpXDpGemoSY6_v73qrWbZPZ8SQo/edit?tab=t.0))
+
+#### So what does it look like
+This [website](https://linkedjazz.org/network/) recommended by Prof. W-B
+[a combination of obsidian](https://obsidian.md/)
+<img width="450" height="485" alt="image" src="https://github.com/user-attachments/assets/19bf7a23-ecdb-450d-b350-0802394dae08" />
+
+
+
 # Week 10 
 
 # 30 July 
