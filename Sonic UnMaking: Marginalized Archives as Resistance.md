@@ -2,9 +2,7 @@
 
 ## Core Un/Making Concept
 **Unmaking news archives to reclaim agency over marginalized narratives**
-
 **Traditional archives** = institutional control, fixed preservation, visibility as validation. 
-
 **Un/making approach** = community control, fluid recontextualization, strategic invisibility as power. 
 
 ## Three Forms of Sonic Un/Making
